@@ -16,6 +16,7 @@ En este reto reforzarás tus conocimientos en JavaScript, creando funciones, tra
    - `bigWords('bocina', myArray);`
    - Output - `['insecto', 'bootcamp', 'escritorio']`
 
+  
 2.- Construye una función que reciba por parámetros un array de strings y lo imprima dentro de la lista (<ul></ul>) en el index.html. La función debe mostrar la lista en el HTML manipulando el DOM, cada string del arreglo debe imprimirse en un elemento **<li></li>**. El array que se recibe por parámetros debe ser un array resultante de utilizar la función anterior.
 
 - Escribe una función que reciba 1 parámetro
